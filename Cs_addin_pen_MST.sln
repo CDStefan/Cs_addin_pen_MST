@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cs_addin_pen_MST", "Cs_addin_pen_MST.csproj", "{30EC706B-2D7B-4524-AE22-6018EEE38AF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30EC706B-2D7B-4524-AE22-6018EEE38AF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30EC706B-2D7B-4524-AE22-6018EEE38AF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30EC706B-2D7B-4524-AE22-6018EEE38AF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30EC706B-2D7B-4524-AE22-6018EEE38AF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {655887F3-1412-4FBB-A809-ED055B4F3F6A}
+	EndGlobalSection
+EndGlobal
